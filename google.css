@@ -29,14 +29,11 @@
     margin: 0 Auto 0 Auto;
     min-width: 200px;
     width: var(--content-width)
-    
 }
 *:focus {
     outline: none;
 }
-#microphone-icon {
 
-}
 .search-icon {
     background-image: url(/home/jlin360/Downloads/magnifyingglass.png);
     background-repeat: no-repeat;
@@ -44,7 +41,7 @@
     -webkit-mask-position: 50%;
     -webkit-mask-repeat: no-repeat;
     background-attachment: scroll;
-    position: absolute;
+    position: relative;
     width: 30px;
     height: 30px;
     
@@ -56,7 +53,7 @@
     -webkit-mask-position: 50%;
     -webkit-mask-repeat: no-repeat;
     background-attachment: scroll;
-    position: absolute;
+    position: relative;
     width: 30px;
     height: 30px;
 }
