@@ -48,11 +48,6 @@ body {
     position: absolute;
     width: 29px;
     height: 29px;
-    background-position: center;
-    list-style-position: inside;
-    border-style: hidden;
-    border: 0;
-    border-image: none;
     top: 14%;
     left: 2%;
     background-image: url(https://i.imgur.com/VsxrmRw.png);
@@ -63,11 +58,6 @@ body {
     position: absolute;
     width: 21px;
     height: 26px;
-    list-style-position: inside;
-    border-style: hidden;
-    background-color: transparent;
-    border: 0;
-    border-image: none;
     top: 14%;
     left: 96%;
     background-image: url(https://i.imgur.com/PH2PWUR.png);
