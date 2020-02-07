@@ -17,7 +17,8 @@ body {
     height: 270px;
     width: 300px;
     margin-bottom: 32px;
-    background-image: url(/home/jlin360/Downloads/Google.png);
+    background-imrage: url(/home/jlin360/Downloads/Google.png);
+    background-image: url(https://imgur.com/tgGVjJE.png);
 }
 #searchbar {
   padding: 11.5px 10px 11.5px 40px;
@@ -42,7 +43,7 @@ body {
 }
 
 .search-icon {
-    background-image: url(/home/jlin360/Downloads/magnifyingglass.png);
+    background-image: url(https://imgur.com/VsxrmRw.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     position: absolute;
@@ -57,7 +58,7 @@ body {
     left: 2%;
 }
 .fakebox-microphone {
-    background-image: url(/home/jlin360/Downloads/microphone.png);
+    background-image: url(https://imgur.com/PH2PWUR.png);
     background-repeat: no-repeat;
     background-size: 22px 26px;
     position: absolute;
