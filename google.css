@@ -43,7 +43,6 @@ body {
 }
 
 .search-icon {
-    background-image: url(https://i.imgur.com/VsxrmRw.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     position: absolute;
@@ -56,9 +55,9 @@ body {
     border-image: none;
     top: 14%;
     left: 2%;
+    background-image: url(https://i.imgur.com/VsxrmRw.png);
 }
 .fakebox-microphone {
-    background-image: url(https://i.imgur.com/PH2PWUR.png);
     background-repeat: no-repeat;
     background-size: 22px 26px;
     position: absolute;
@@ -71,4 +70,5 @@ body {
     border-image: none;
     top: 14%;
     left: 96%;
+    background-image: url(https://i.imgur.com/PH2PWUR.png);
 }
