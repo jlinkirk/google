@@ -63,7 +63,10 @@ body {
     left: 96%;
     background-image: url(https://i.imgur.com/wx1WJYr.png);
 }
-@media only screen and (max-device-width: 480px) {
+@media only screen
+and (device-width: 414px) 
+and (device-height: 896px)
+and (-webkit-device-pixel-ratio: 2){
     .fakebox-microphone {
     background-repeat: no-repeat;
     background-size: 22px 26px;
