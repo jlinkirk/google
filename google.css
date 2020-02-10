@@ -29,6 +29,7 @@ body {
   border-width: 125px;
   border-style: hidden;
   background-position-x: center;
+  width: 500px;
 }
 #fakebox-container {
     margin: 0 Auto 0 Auto;
@@ -75,7 +76,7 @@ and (-webkit-device-pixel-ratio: 3){
     width: 21px;
     height: 26px;
     top: 19%;
-    left: 96%;
+    left: 93%;
     background-image: url(https://i.imgur.com/wx1WJYr.png);
     }
     .search-icon {
@@ -97,7 +98,7 @@ and (-webkit-device-pixel-ratio: 3){
         background-position: center;
         height: 270px;
         width: 300px;
-        margin-bottom: 32px;
+        margin-bottom: -20px;
         background-imrage: url(/home/jlin360/Downloads/Google.png);
         background-image: url(https://i.imgur.com/tgGVjJE.png);
     }
@@ -110,11 +111,12 @@ and (-webkit-device-pixel-ratio: 3){
       border-width: 125px;
       border-style: hidden;
       background-position-x: center;
+      width: 330px;
     }
     #fakebox-container {
         margin: 0 Auto 0 Auto;
-        min-width: 535px;
-        max-width: 535px;
+        min-width: 370px;
+        max-width: 370px;
         width: var(--content-width);
         position: relative;
         /* Have to add relative to the container with pictures or they'll move weird when screen changes sizes*/
