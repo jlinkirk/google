@@ -65,8 +65,8 @@ body {
     background-image: url(https://i.imgur.com/wx1WJYr.png);
 }
 @media only screen
-and (device-width: 414px) 
-and (device-height: 767px) {
+and (min-width: 414px) 
+and (max-width: 767px) {
     .fakebox-microphone {
     background-repeat: no-repeat;
     background-size: 22px 26px;
